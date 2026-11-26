@@ -11,7 +11,9 @@ Senior Unity Developer focused on mobile games with Unity and C#. My work spans 
 - [Layered layout](https://sciuzza84.github.io/demos/unity/?sample=layered-layout) — preview how named artwork layers become level data.
 - [Match recovery](https://sciuzza84.github.io/demos/unity/?sample=match-recovery) — lose a scoreboard update, catch up from a snapshot, and replay a delivery.
 
-These are original studies made with Codex. The [Unity source and test guide](https://github.com/Sciuzza84/sciuzza84.github.io/tree/main/samples) also covers Editor tools, AR simulation, combat, event scopes, and adaptive layout.
+[EVM Lite](https://sciuzza84.github.io/demos/unity/?sample=evm-lite) shows listener lifetime across scenes. [Adaptive layout](https://sciuzza84.github.io/demos/unity/?sample=adaptive-layout) shows how UI and world bounds respond to different screens.
+
+These are original studies made with Codex. The [Unity source and test guide](https://github.com/Sciuzza84/sciuzza84.github.io/tree/main/samples) covers all samples and their checks.
 
 ## Selected work
 
